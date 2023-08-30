@@ -24,4 +24,18 @@ In any application color makes big difference. Like:
 
 10. **Atmosphere**:  Colors influence the application's mood.
 
+PIC'S FOR CHANGING COLOR IN LOGIN APPLICATION:
+
+
+<img width="833" alt="image" src="https://github.com/Hareesh061/Sample_login/assets/90563881/756da2a2-dd41-4728-9992-856e446b1b38">
+
+
+
+<img width="832" alt="image" src="https://github.com/Hareesh061/Sample_login/assets/90563881/d86bb8c6-214d-40f7-898a-8dc0f863a3e7">
+
+
+
+
+
+
 # keep learning...
