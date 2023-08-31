@@ -1,6 +1,6 @@
 # Sample_login
 This is a simple login application made by HTML and CSS.
-# link: https://hareesh061.github.io/Sample_login
+
 
 In any application color makes big difference. Like:
 
