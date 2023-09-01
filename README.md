@@ -1,7 +1,7 @@
 # Sample_login
 This is a simple login application made by HTML and CSS.
 
-# link: https://64f01c8f2211da2695601bd6--vocal-vacherin-304559.netlify.app/
+# link: https://darling-platypus-a9a65c.netlify.app
 
 
 In any application color makes big difference. Like:
