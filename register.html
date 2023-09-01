@@ -1,11 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registrationpage</title>
+    <title>Register page</title>
+    <link rel="stylesheet" href="style3.css">
+
 </head>
 <body>
-    <h1>User Registration</h1>
+    <div class="wrap">
+        <form action="/index.html" method="get">
+            <h1>Registration</h1>
+            <div class="input-box">
+                <label>Enter your name</label>
+                <input type="text" placeholder="Username" required>
+                
+            </div>
+
+            <div class="input-box">
+                <label>Enter your password</label>
+                <input type="Password" placeholder="Password" required>
+               
+            </div>
+            
+            <div class="input-box">
+                <label>Re-enter password</label>
+                <input type="Password" placeholder="Password" required>
+              
+            </div>
+
+            <div class="register">
+                <p>I'm ok with <a id="a"> term&conditions!</a></p>
+            </div>
+
+            <button type="submit" class="btn">Submit</button>
+
+              <div class="register">
+                <p>If you already have account? just <a id="b">Signin</a></p>
+                </div>
+
+
+        </form>
+    </div>
 </body>
 </html>
